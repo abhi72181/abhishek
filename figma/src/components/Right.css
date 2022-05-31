@@ -1,0 +1,33 @@
+.rightBoundary {
+    width: 95%;
+   
+   }
+   .flex{
+
+       display: flex;
+       justify-content: space-between;
+       font-weight: 400;
+   }
+
+   .container{
+       width: 40%;
+     
+       margin-left: 10%;
+       
+   }
+   .box{
+       width: 40%;
+      
+       margin-left: 10%;
+   }
+   .notflex{
+       display: flex;
+       flex-direction: column;
+       margin-left: 2%;
+   }
+   .flexing{
+
+    display: flex;
+    
+    font-weight: 400;
+}
