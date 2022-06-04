@@ -1,0 +1,20 @@
+.mensBox{
+    width: 100%; 
+    border: 1px solid;
+}
+
+.inside-mens{
+    width: 90%;
+    border: 1px solid;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    
+}
+.single-item{
+    width: 80%;
+    border: 1px solid;
+    margin: auto;
+   
+    margin-top: 20px;
+}

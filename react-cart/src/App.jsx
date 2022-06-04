@@ -13,6 +13,10 @@ import Contact from './pages/Contact'
 import Footer from './components/Footer/Footer'
 import Cart from './pages/Cart'
 import Career from './pages/Career'
+import ProductDetails from './pages/ProductDetails'
+import ProductDetailsWomen from './pages/ProductDetailsWomen'
+import NotFound from './pages/NotFound'
+import InvalidRoute from './pages/InvalidRoute'
 function App() {
   const [count, setCount] = useState(0)
 
@@ -25,10 +29,14 @@ function App() {
         <Route path="/about" element={<About />} />
         <Route path="/mens" element={<Mens />} />
         <Route path="/womens" element={<Womens />} />
+        <Route path="/womens/:id" element={<ProductDetailsWomen />} />
         <Route path="/faq" element={<Faq />} />
         <Route path="/contact" element={<Contact />} />
         <Route path="/cart" element={<Cart />} />
         <Route path="/career" element={<Career />} />
+        <Route path="/mens/:id" element={<ProductDetails />} />
+        <Route path="*" element={<NotFound />} />
+        <Route path="/invalid" element={<InvalidRoute />} />
 
       </Routes>
       <Footer />
