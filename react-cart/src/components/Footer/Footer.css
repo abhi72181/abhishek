@@ -1,0 +1,16 @@
+.footer{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    border: 1px solid;
+    padding: 10px;
+    background-color:navajowhite ;
+}
+.social{
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin-top: 10px;
+    gap: 25px;
+}

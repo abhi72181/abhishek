@@ -1,0 +1,94 @@
+{
+  "mens": [
+    {
+      "category": "men's clothing",
+      "description" : "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "id": 1,
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "price": 109.95,
+      
+      "rates": 3.9,
+      "counts": 120,
+      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops"
+    },  {
+      "category": "men's clothing",
+      "description" : "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "id": 2,
+      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+      "price": 139.95,
+     
+      "rates": 2.9,
+      "counts": 120,
+      "title": "Mens Casual Premium Slim Fit T-Shirts"
+    },
+    {
+      "category": "men's clothing",
+      "description" : "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "id": 3,
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "price": 159.95,
+      
+      "rates": 3.0,
+      "counts": 120,
+      "title": "Mens Cotton Jacket"
+    },
+    {
+      "category": "men's clothing",
+      "description" : "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "id": 4,
+      "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+      "price": 169.95,
+     
+      "rates": 4.9,
+      "counts": 120,
+      "title": "Mens Casual Slim Fit"
+    }
+  ],
+
+  "womens": [
+    {
+      "category": "women's clothing",
+      "description" : "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable",
+      "id": 1,
+      "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+      "price": 129.95,
+      
+      "rates": 2.9,
+      "counts": 320,
+      "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats"
+    },  {
+      "category": "women's clothing",
+      "description" : "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "id": 2,
+      "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+      "price": 149.95,
+     
+      "rates": 3.9,
+      "counts": 220,
+      "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket"
+    },
+    {
+      "category": "women's clothing",
+      "description" : "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "id": 3,
+      "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+      "price": 139.95,
+      
+      "rates": 4.0,
+      "counts": 220,
+      "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats"
+    },
+    {
+      "category": "women's clothing",
+      "description" : "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "id": 4,
+      "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+      "price": 1609.95,
+     
+      "rates": 3.9,
+      "counts": 20,
+      "title": "MBJ Women's Solid Short Sleeve Boat Neck V"
+    }
+  ]
+  
+}
